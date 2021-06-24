@@ -4,5 +4,6 @@ I am a frontend developer and a design enthusiast with a desire to create engagi
 
 These days I'm focused on the artistic side of creating web apps. As much as I've always been interested in arts and illustrations, I have to admit I haven't taken enough time to grow in that direction, but I know that will change soon.
 
-_Here's my cat for no reason_:
+_**Also, here's my illustrated cat Lili for no reason**_:
+
 <img src="https://raw.githubusercontent.com/olja-milovic/olja-milovic/main/Lili.png" alt="Illustration of my cat Lili">
