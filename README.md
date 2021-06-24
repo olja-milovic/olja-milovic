@@ -6,4 +6,4 @@ These days I'm focused on the artistic side of creating web apps. As much as I'v
 
 _**Also, here's my illustrated cat Lili for no reason**_:
 
-<img src="https://raw.githubusercontent.com/olja-milovic/olja-milovic/main/Lili.png" alt="Illustration of my cat Lili">
+<img src="https://raw.githubusercontent.com/olja-milovic/olja-milovic/main/Lili.png" alt="Illustration of my cat Lili" width="300" height="300">
