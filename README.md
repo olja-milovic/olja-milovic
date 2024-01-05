@@ -1,6 +1,6 @@
 # Hi, I'm Olja. Nice to meet you!
 
-I am a frontend developer and a design enthusiast with a desire to create engaging apps, creative solutions and immersive web experiences. The technologies I enjoy working with include primarily **Angular** and **React.js** (**JavaScript**). Although my main focus is on frontend, I have a solid knowledge of backend as well, having worked on **Python** and **Node.js** services.
+I am a frontend developer and a design enthusiast with a desire to create engaging apps, creative solutions and immersive web experiences. The technologies I enjoy working with include primarily **React.js** and **Angular** (**JavaScript**), but I am always up for a new challenge of learning new ones. Although my main focus is on frontend, I have a solid knowledge of backend as well, having worked on **Python** and **Node.js** services both profesionally and personally.
 
 These days I'm focused on the artistic side of creating web apps. As much as I've always been interested in arts and illustrations, I have to admit I haven't taken enough time to grow in that direction, but I know that will change soon.
 
