@@ -1,9 +1,39 @@
-# Hi, I'm Olja. Nice to meet you!
+# Hi there, I'm Olja 👋
 
-I am a frontend developer and a design enthusiast with a desire to create engaging apps, creative solutions and immersive web experiences. The technologies I enjoy working with include primarily **React.js** and **Angular** (**JavaScript**), but I am always up for a challenge of learning new ones. Although my main focus is on frontend, I have a solid knowledge of backend as well, having worked on **Python** and **Node.js** services both profesionally and personally.
+I'm a passionate **Frontend Developer** specializing in modern web technologies and UI engineering.
 
-These days I'm focused on the artistic side of creating web apps. As much as I've always been interested in arts and illustrations, I have to admit I haven't taken enough time to grow in that direction, but I know that will change soon.
+## 🚀 About Me
 
-_**Also, here's my illustrated cat Lili for no reason**_:
+- 💻 I build performant and maintainable web apps and libraries with **React** as my library of choice.
+- 📦 Owner of **Rapidograph** - a lightweight, framework-agnostic charting library available on npm.
+- 📈 I focus on **developer experience**, **clean APIs**, **responsiveness** and **following accessibility guidelines**.
 
-<img src="https://raw.githubusercontent.com/olja-milovic/olja-milovic/main/Lili.png" alt="Illustration of my cat Lili" width="300" height="300">
+## 🛠️ Skills & Technologies
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS, Sass
+- **Frontend:** React, Web Components, D3.js, TanStack Query, Tailwind CSS
+- **Tooling:** npm, GitHub Actions, Vite, ESLint, Prettier
+- **Other**: Accessibility (WCAG 2.1), Performance Optimization, Data Visualization, Responsive Design
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](linkedin.com/in/olja-milovic)
+
+## 🧠 Fun Fact
+
+Interested in frontend performance, accessibility, responsiveness, and building reusable UI abstractions.
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?logo=webcomponents.org&logoColor=white)
+
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
